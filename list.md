@@ -1,4 +1,4 @@
-### List
+### Awesome Front-End Blogs
 1. CSS Tricks -> https://css-tricks.com
 2. Smashing Magazine -> https://www.smashingmagazine.com
 3. Dan Abramov ([@dan_abramov](https://twitter.com/dan_abramov)) - Overreacted -> https://overreacted.io
