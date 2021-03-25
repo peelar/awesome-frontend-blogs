@@ -13,3 +13,4 @@
 12. Kent C. Dodds ([@kentcdodds](https://twitter.com/kentcdodds/)) -> https://kentcdodds.com/blog
 13. Christian Heilmann ([@codepo8](https://twitter.com/codepo8)) -> https://christianheilmann.com
 14. Lea Verou ([@LeaVerou](https://twitter.com/leaverou)) -> https://lea.verou.me
+15. Amelia Wattenberger ([@Wattenberger](https://twitter.com/wattenberger)) -> https://wattenberger.com
