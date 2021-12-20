@@ -14,3 +14,5 @@
 13. Christian Heilmann ([@codepo8](https://twitter.com/codepo8)) -> https://christianheilmann.com
 14. Lea Verou ([@LeaVerou](https://twitter.com/leaverou)) -> https://lea.verou.me
 15. Amelia Wattenberger ([@Wattenberger](https://twitter.com/wattenberger)) -> https://wattenberger.com
+16. Lee Robinson ([@leeerob](https://twitter.com/leeerob)) -> https://leerob.io
+17. Varun Vachhar ([@winkerVSbecks](https://twitter.com/winkerVSbecks)) -> https://varun.ca
